@@ -1,2 +1,2 @@
 # reference
-referential collateral | content | code
+collateral | content | code
