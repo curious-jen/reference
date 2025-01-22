@@ -1,1 +1,1 @@
-
+- [Introduction to Distributed SQL and CockroachDB](https://github.com/curious-jen/reference/blob/main/certs/CockroachDB/crl%20intro-to-distributed-sql-and-cockroachdb%20Certificate%20_%20Cockroach%20University.pdf)
