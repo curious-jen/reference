@@ -3,3 +3,4 @@
  - [APIs](https://github.com/curious-jen/reference/tree/main/API)
  - [Git/SCM](https://github.com/curious-jen/reference/tree/main/git)
  - [SQL](https://github.com/curious-jen/reference/tree/main/SQL)
+ - [Certs](https://github.com/curious-jen/reference/tree/main/certs)
