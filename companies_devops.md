@@ -1,4 +1,4 @@
- | Company | Description | DevOps Phase | Career / Repo|
+ | Company | Description | DevOps Core| Career / Repo|
 |---------|-------------|--------------|--------------|
 | [**Ansible**](https://www.ansible.com) | Established in 2012 and later acquired by Red Hat, Ansible is an open-source automation tool for configuration management, application deployment, and orchestration. | Configuration Management, Automation | [Red Hat Careers](https://www.redhat.com/en/jobs) |
 | [**ArgoCD**](https://argoproj.github.io/cd/) | ArgoCD is an open-source GitOps continuous delivery tool for Kubernetes, allowing declarative application deployment and management. | CI/CD, GitOps, Kubernetes | [ArgoCD GitHub](https://github.com/argoproj/argo-cd) |
