@@ -1,5 +1,3 @@
-I've added **CircleCI** and **Harness.io** to the list. Here’s the updated version:  
-
 | Company | Description | DevOps Phase | Careers Page |
 |---------|-------------|--------------|--------------|
 | [**Ansible**](https://www.ansible.com) | Established in 2012 and later acquired by Red Hat, Ansible is an open-source automation tool for configuration management, application deployment, and orchestration. | Configuration Management, Automation | [Red Hat Careers](https://www.redhat.com/en/jobs) |
@@ -16,6 +14,7 @@ I've added **CircleCI** and **Harness.io** to the list. Here’s the updated ver
 | [**HashiCorp**](https://www.hashicorp.com) | Founded in 2012, HashiCorp specializes in infrastructure automation for multi-cloud environments, offering products like Terraform, Vault, and Consul. | Infrastructure as Code, Security, Orchestration | [HashiCorp Careers](https://www.hashicorp.com/careers) |
 | [**Honeycomb**](https://www.honeycomb.io) | Established in 2016, Honeycomb provides observability tools that help teams understand, debug, and improve complex systems in production. | Monitoring, Observability | [Honeycomb Careers](https://www.honeycomb.io/careers) |
 | [**JFrog**](https://jfrog.com) | Established in 2008, JFrog offers DevOps solutions like Artifactory and Xray, focusing on artifact management and security. | CI/CD, Artifact Management, Security | [JFrog Careers](https://jfrog.com/careers) |
+| [**LaunchDarkly**](https://launchdarkly.com) | Founded in 2014, LaunchDarkly is a feature management platform that helps teams deploy, manage, and experiment with feature flags in production. | Feature Flagging, Progressive Delivery | [LaunchDarkly Careers](https://launchdarkly.com/careers) |
 | [**OutSystems**](https://www.outsystems.com) | Founded in 2001, OutSystems provides a modern application platform that enables organizations to build applications quickly and efficiently. | Continuous Deployment, Low-Code Development | [OutSystems Careers](https://www.outsystems.com/careers/) |
 | [**Puppet**](https://www.puppet.com) | Founded in 2005, Puppet provides IT automation and configuration management tools, helping organizations manage infrastructure as code. | Configuration Management, Automation | [Puppet Careers](https://puppet.com/company/careers) |
 | [**RhodeCode**](https://rhodecode.com/) | Established in 2010, RhodeCode is an open-source, self-hosted platform providing centralized control over Git, Mercurial, and Subversion repositories, with features like code reviews and permission management. | Source Control, Code Review | [RhodeCode Careers](https://rhodecode.com/careers) |
@@ -23,6 +22,7 @@ I've added **CircleCI** and **Harness.io** to the list. Here’s the updated ver
 | [**Semaphore**](https://semaphoreci.com) | Founded in 2012, Semaphore provides a fast, powerful, and easy-to-use CI/CD platform for high-performance engineering teams. | CI/CD, Automation | [Semaphore Careers](https://semaphoreci.com/careers) |
 | [**StackHawk**](https://www.stackhawk.com) | Established in 2019, StackHawk offers application security testing solutions designed to integrate seamlessly into the DevOps pipeline. | Security, Testing | [StackHawk Careers](https://www.stackhawk.com/careers) |
 
+Now the list includes **LaunchDarkly**, a key player in feature flagging and progressive delivery! Let me know if you'd like more additions. 🚀
 ### **DevOps Phases** Explained:
 - **Source Control**: Managing code repositories (e.g., GitLab).  
 - **CI/CD (Continuous Integration & Continuous Deployment)**: Automating the building, testing, and deploying of code (e.g., AWS DevOps, GitLab, Semaphore).  
