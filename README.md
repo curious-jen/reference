@@ -1,6 +1,6 @@
-# collateral | content | code
  - [Aiven](https://github.com/curious-jen/reference/tree/main/aiven)
  - [APIs](https://github.com/curious-jen/reference/tree/main/API)
+ - [DevOps](https://github.com/curious-jen/reference/tree/main/DevOps)
  - [Git/SCM](https://github.com/curious-jen/reference/tree/main/git)
  - [SQL](https://github.com/curious-jen/reference/tree/main/SQL)
  - [Certs](https://github.com/curious-jen/reference/tree/main/certs)
