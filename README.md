@@ -1,4 +1,3 @@
- - [Aiven](https://github.com/curious-jen/reference/tree/main/aiven)
  - [APIs](https://github.com/curious-jen/reference/tree/main/API)
  - [DevOps](https://github.com/curious-jen/reference/tree/main/DevOps)
  - [Git/SCM](https://github.com/curious-jen/reference/tree/main/git)
