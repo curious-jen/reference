@@ -68,3 +68,4 @@ You can verify if Git is installed via git --version. If you see something simil
    This command pushes your changes to the remote repository's main branch. After the initial push, you can simply use `git push` to push changes in the future.
 
 That's it! You've now set up Git on your local machine and initialized a repository. You can continue to add, commit, and push changes as needed.
+
