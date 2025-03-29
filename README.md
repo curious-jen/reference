@@ -1,5 +1,1 @@
- - [APIs](https://github.com/curious-jen/reference/tree/main/API)
- - [DevOps](https://github.com/curious-jen/reference/tree/main/DevOps)
- - [Git/SCM](https://github.com/curious-jen/reference/tree/main/git)
- - [SQL](https://github.com/curious-jen/reference/tree/main/SQL)
- - [Certs](https://github.com/curious-jen/reference/tree/main/certs)
+![unicornRockstar](https://github.com/user-attachments/assets/0a0cd6bc-8946-431b-b15a-b5eb66e13846)
