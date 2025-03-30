@@ -1,2 +1,4 @@
  - [Postman Docs](https://learning.postman.com/)
+ - [Postman API Public Workspace](https://www.postman.com/postman/postman-public-workspace/collection/i2uqzpp/postman-api?ctx=documentation)
  - [Postman Environments: How to Control Access to Variables, Workflows, and More](https://blog.postman.com/postman-environments-how-to-control-access-to-variables-workflows-and-more/)
+ - [10 Tips for Working with Postman Variables](https://blog.postman.com/10-tips-for-working-with-postman-variables/)
